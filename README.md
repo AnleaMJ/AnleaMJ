@@ -43,7 +43,7 @@ I'm a student pursuing BTech in AI & ML. I'm currently working on building an AI
 - 📍 I'm interested in UI/UX design
 - 💬 Ask me about my interests
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love learning new things!
+- ⚡ I love learning new things!
 
 **Happy Coding!** 🚀✨
 AnleaMJ
