@@ -10,12 +10,8 @@ I'm a student pursuing BTech in AI & ML. I'm currently working on building an AI
 
 **Projects**
 
-🔭 My current focus is on developing an _AI travel app_ that uses ML algorithms to:
-
-- Personalize travel recommendations based on user preferences
-- Optimize itinerary planning and closest accommodations
-- Provide real-time text-to-speech output and cultural insights
-- Plan and Record events with in-app Tasks and Calendar
+🔭 My AI Travel app is out
+View it on web [here]([url](https://ai-travel-project.flutterflow.app/))
 
 **Skills**
 
@@ -23,7 +19,7 @@ I'm a student pursuing BTech in AI & ML. I'm currently working on building an AI
 
 - Programming languages: Python, HTML, MySQL
 - Development tools: Git, GitHub, Visual Studio Code
-- APIs: Google Maps, ChatGPT
+- APIs: Google Maps, Gemini
 - I can use Flutterflow and BuildShip
 
 **Goals**
