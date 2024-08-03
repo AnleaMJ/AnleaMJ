@@ -10,8 +10,7 @@ I'm a student pursuing BTech in AI & ML. I'm currently working on building an AI
 
 **Projects**
 
-🔭 My AI Travel app is out
-View it on web [here]([url](https://ai-travel-project.flutterflow.app/))
+🔭 My AI Travel app is out. View it on web [here]([url](https://ai-travel-project.flutterflow.app))
 
 **Skills**
 
