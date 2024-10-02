@@ -1,7 +1,7 @@
 Hi there👋
 
 Welcome!
-My name is **Anlea Maria Jose**. I am a curious and passionate individual fascinated by the power of Artificial Intelligence (AI) and Machine Learning (ML). I'm on a mission to become a 'sustainabler'🌏 by learning how AI ML can help revolutionise our planet and lead us to live greener lives.🌞
+My name is **Anlea Maria Jose**. I am a curious and passionate individual fascinated by the power of AI and Machine Learning (ML). I'm on a mission to become a 'sustainabler'🌏 by learning how AI ML can help revolutionise our planet and lead us to live greener lives.🌞
 
 **About Me**
 
