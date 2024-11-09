@@ -127,7 +127,7 @@
   <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Profile" height="40" width="40" />
 </a>
 
-<a href="https://developers.google.com/profile/u/114068874155707147836" target="_blank" style="margin-right: 10px;"> 
+<a href="https://g.dev/anlea" target="_blank" style="margin-right: 10px;"> 
   <img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Anlea's Google Profile" height="40" width="40" />  
 </a>
 <br>
