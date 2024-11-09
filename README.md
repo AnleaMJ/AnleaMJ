@@ -137,7 +137,7 @@
 </a>
 <br>
 <br>
-<a href="https://www.holopin.io/@anleamj#badges">  <img src="https://github.com/AnleaMJ/readme/blob/main/Screenshot%202024-10-30%20205312.png" alt="@@anleamj Holopin board" height="100" width="100" /> </a>
+<a href="https://www.holopin.io/@anleamj#badges">  <img src="https://github.com/AnleaMJ/readme/blob/main/Screenshot%202024-10-30%20205312.png" alt="@@anleamj Holopin board" height="450" width="400" /> </a>
 <!-- <a href="https://www.tinkercad.com/users/lgvCZ7BWwIF" target="_blank" style="margin-right: 10px;">
   <img align="center" src="https://www.tinkercad.com/favicon.ico" alt="Tinkercad" height="40" width="40" />
 </a>
