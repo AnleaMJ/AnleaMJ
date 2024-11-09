@@ -3,12 +3,14 @@
   <a href="https://www.linkedin.com/in/anlea/"> 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Anlea LinkedIn" height='30' width='90'/>
   </a>
-  <a href="https://buymeacoffee.com/shivanshplays" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="100"/>
+  <a href="https://buymeacoffee.com/radiantspectre" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="110"/>
   </a>
   <a href="https://github.com/anleamj"> 
     <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Anlea GitHub" height='30' width='90'/>  
   </a>
+  <hr>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=shivanshplays&color=red" alt="Total Github views" />	
 </p>
 
 <div align="center" width="50%">
