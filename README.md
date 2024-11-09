@@ -9,7 +9,7 @@
   <a href="https://github.com/anleamj"> 
     <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Anlea GitHub" height='30' width='90'/>  
   </a>
-<p align="right"><img src="https://komarev.com/ghpvc/?username=shivanshplays&color=red" alt="Total Github views" />	
+<p align="right"><img src="https://komarev.com/ghpvc/?username=anleamj&color=red" alt="Total Github views" />	
 </p>
 
 <div align="center" width="50%">
