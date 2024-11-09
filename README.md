@@ -1,9 +1,9 @@
 <h1 align="center"> Hi! I'm Anlea <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/ananya-gupta-30aa9b28b/"> 
+  <a href="https://www.linkedin.com/in/anlea/"> 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Ananya LinkedIn" height='20' width='90'/>
   </a>
-  <a href="https://github.com/ananyag309"> 
+  <a href="https://github.com/anleamj"> 
     <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Ananya GitHub" height='20' width='80'/>  
   </a>
 </p>
