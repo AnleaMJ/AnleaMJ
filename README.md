@@ -35,11 +35,6 @@
 </tr>
 
 <tr>
-	<td><strong>Frameworks</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=tailwind&theme=dark"></td>
-</tr>
-
-<tr>
 	<td><strong>Developer Tools</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,gitlab&theme=dark"></td>
 </tr>
@@ -99,14 +94,9 @@
               <strong>Summit Seeker Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="Innovator Bage.png" alt="Innovator Badge" width="80" />
+              <img src="https://github.com/AnleaMJ/readme/blob/main/Innovator%20Bage.png" alt="Innovator Badge" width="80" />
               <br>
               <strong>Innovator Badge</strong>
-            </td>
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="Conqueror%20Badge.png" alt="Conqueror Badge" width="80" />
-              <br>
-              <strong>Conqueror Badge</strong>
             </td>
             <td style="padding: 10px;" width="100">
               <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
