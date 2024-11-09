@@ -121,9 +121,6 @@
 
 <br>
 
-
-
-
 <!-- Connect with Me Section -->
 <h2 align="center">Connect with Me</h2>
 
@@ -140,7 +137,7 @@
 </a>
 <br>
 <br>
-<a href="https://holopin.me/anleamj">   <img src="https://holopin.me/anleamj" alt="@@anleamj Holopin board" /> </a>
+<a href="https://holopin.me/anleamj">   <img src="https://www.holopin.io/@anleamj#badges" alt="@@anleamj Holopin board" /> </a>
 <!-- <a href="https://www.tinkercad.com/users/lgvCZ7BWwIF" target="_blank" style="margin-right: 10px;">
   <img align="center" src="https://www.tinkercad.com/favicon.ico" alt="Tinkercad" height="40" width="40" />
 </a>
@@ -148,6 +145,5 @@
 <a href="https://g.dev/anlea" target="_blank" style="margin-right: 10px;"> 
   <img align="center" src="https://www.google.com/favicon.ico" alt="Anlea Google Developer Profile" height="40" width="40" />  
 </a>
-
 
 -->
