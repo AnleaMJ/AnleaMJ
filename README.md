@@ -1,10 +1,10 @@
-<h1 align="center"> Hi! I'm Anlea <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center"> Hi there! I'm Anlea <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/anlea/"> 
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Ananya LinkedIn" height='20' width='90'/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Anlea LinkedIn" height='30' width='90'/>
   </a>
   <a href="https://github.com/anleamj"> 
-    <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Ananya GitHub" height='20' width='80'/>  
+    <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Anlea GitHub" height='30' width='90'/>  
   </a>
 </p>
 
@@ -110,7 +110,7 @@
               <br>
               <strong>Hack web3Conf</strong>
               <br>
-              <span style="font-size: 12px; color: #777777;">Postman</span>
+              <span style="font-size: 12px; color: #777777;"></span>
             </td>
           </tr>
         </table>
@@ -137,7 +137,7 @@
 </a>
 <br>
 <br>
-<a href="https://www.holopin.io/@anleamj#badges">  <img src="https://github.com/AnleaMJ/readme/blob/main/Screenshot%202024-10-30%20205312.png" alt="@@anleamj Holopin board" height="450" width="400" /> </a>
+<a href="https://www.holopin.io/@anleamj#badges">  <img src="https://github.com/AnleaMJ/readme/blob/main/Screenshot%202024-10-30%20205312.png" alt="@@anleamj Holopin board" height="400" width="340" /> </a>
 <!-- <a href="https://www.tinkercad.com/users/lgvCZ7BWwIF" target="_blank" style="margin-right: 10px;">
   <img align="center" src="https://www.tinkercad.com/favicon.ico" alt="Tinkercad" height="40" width="40" />
 </a>
