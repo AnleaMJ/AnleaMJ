@@ -143,7 +143,7 @@
 </a>
 
 <a href="https://g.dev/anlea" target="_blank" style="margin-right: 10px;"> 
-  <img align="center" src="https://www.google.com/favicon.ico" alt="Anlea Google Developer Profile" height="100" width="100" />  
+  <img align="center" src="https://www.google.com/favicon.ico" alt="Anlea Google Developer Profile" height="80" width="80" />  
 </a>
 
 -->
