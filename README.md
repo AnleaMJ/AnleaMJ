@@ -13,23 +13,6 @@
   <img src="https://github.com/ananyag309/ananyag309/blob/main/69b39f6dab8b07dc4b1e5039054b9f50.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
   <br>
   <p><strong>"🎓 College. ☕ Coffee. 💻 Code. 🔁 Repeat."<br><br> Vibing to: 🎧</strong></p>
-  <!-- Streak feature -->
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnleaMJ9&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Anlea's GitHub Streak" /></p>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananyag309&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ananyag309&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ananyag309&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ananyag309&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ananyag309&theme=github_dark" />
-</div>
-
-<br>
-<div align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ananyag309&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
-</div>
 
 <br>
 <h3> Languages, Tools and Technologies 🚀 </h3>
@@ -115,10 +98,16 @@
               <br>
               <strong>Summit Seeker Badge</strong>
             </td>
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+          <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
               <img src="Innovator Bage.png" alt="Innovator Badge" width="80" />
               <br>
               <strong>Innovator Badge</strong>
+            </td>
+            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
+              <img src="Conqueror%20Badge.png" alt="Conqueror Badge" width="80" />
+              <br>
+              <strong>Conqueror Badge</strong>
+            </td>
             <td style="padding: 10px;" width="100">
               <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
               <br>
@@ -141,16 +130,16 @@
 <!-- Connect with Me Section -->
 <h2 align="center">Connect with Me</h2>
 
-<a href="https://www.linkedin.com/in/ananya-gupta-30aa9b28b/" target="_blank" style="margin-right: 10px;">
+<a href="https://www.linkedin.com/in/anlea" target="_blank" style="margin-right: 10px;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="40" width="40" />
 </a>
 
-<a href="https://github.com/ananyag309" target="_blank" style="margin-right: 10px;">
+<a href="https://github.com/anleamj" target="_blank" style="margin-right: 10px;">
   <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Profile" height="40" width="40" />
 </a>
 
-<a href="https://www.cloudskillsboost.google/public_profiles/dc4077c2-a4a3-4d5f-a4c0-646c339a2b5b" target="_blank" style="margin-right: 10px;"> 
-  <img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Ananya Skill Boost Google Profile" height="40" width="40" />  
+<a href="[https://www.cloudskillsboost.google/public_profiles/dc4077c2-a4a3-4d5f-a4c0-646c339a2b5b](https://developers.google.com/profile/u/114068874155707147836)" target="_blank" style="margin-right: 10px;"> 
+  <img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Anlea's Google Profile" height="40" width="40" />  
 </a>
 <br>
 <br>
@@ -159,16 +148,9 @@
   <img align="center" src="https://www.tinkercad.com/favicon.ico" alt="Tinkercad" height="40" width="40" />
 </a>
 
-<a href="https://wokwi.com/makers/anonzya" target="_blank" style="margin-right: 10px;">
-  <img align="center" src="Wokwi.jpeg" alt="Wokwi Profile" height="40" width="40" />
+<a href="https://g.dev/anlea" target="_blank" style="margin-right: 10px;"> 
+  <img align="center" src="https://www.google.com/favicon.ico" alt="Anlea Google Developer Profile" height="40" width="40" />  
 </a>
 
-<a href="https://g.dev/ananyag309" target="_blank" style="margin-right: 10px;"> 
-  <img align="center" src="https://www.google.com/favicon.ico" alt="Ananya Google Developer Profile" height="40" width="40" />  
-</a>
-
-<a href="https://www.hackerrank.com/profile/ananya30g" target="_blank" style="margin-right: 10px;">
-  <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank Profile" height="50" width="50" />
-</a>
 
 -->
