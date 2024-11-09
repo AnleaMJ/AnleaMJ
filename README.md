@@ -94,7 +94,7 @@
               <strong>Summit Seeker Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/AnleaMJ/readme/blob/main/Innovator%20Bage.png" alt="Innovator Badge" width="80" />
+              <img src="https://github.com/AnleaMJ/readme/blob/main/Innovator%20Badge.png" alt="Innovator Badge" width="80" />
               <br>
               <strong>Innovator Badge</strong>
             </td>
@@ -102,6 +102,13 @@
               <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
               <br>
               <strong>API Student Expert</strong>
+              <br>
+              <span style="font-size: 12px; color: #777777;">Postman</span>
+            </td>
+	    <td style="padding: 10px;" width="100">
+              <img src="https://github.com/AnleaMJ/readme/blob/main/web3hack.png" alt="Postman API Fundamentals Student Expert" width="80" />
+              <br>
+              <strong>Hack web3Conf</strong>
               <br>
               <span style="font-size: 12px; color: #777777;">Postman</span>
             </td>
