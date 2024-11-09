@@ -57,7 +57,7 @@
         <span style="font-size: 14px; color: #555555;">🏅 Ranked Top 200</span>
         <br>
         <span style="font-size: 12px; color: #777777;">
-	  Out of 17,000+ participants<br>
+	  Out of 3,700+ participants<br>
           PRs Merged: 4<br>
           Total Badges: 7<br>
           Total Score: 1035<br>
@@ -81,20 +81,20 @@
               <br>
               <strong>Trailblazer Badge</strong>
             </td>
-          </tr>
-          <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
               <img src="https://github.com/ananyag309/ananyag309/blob/main/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="80" />
               <br>
               <strong>Summit Seeker Badge</strong>
             </td>
+	 </tr>
+	   <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
               <img src="https://github.com/ananyag309/ananyag309/blob/main/Champion%20Badge.png" alt="Champion Badge" width="80" />
               <br>
               <strong>Champion Badge</strong>
             </td>
             <td style="padding: 10px;" width="100">
-              <img src="https://github.com/AnleaMJ/readme/blob/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
+              <img src="https://github.com/AnleaMJ/readme/blob/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80"/>
               <br>
               <strong>API Student Expert</strong>
               <br>
