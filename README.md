@@ -9,7 +9,7 @@
 </p>
 
 <div align="center" width="50%">
-  <p> I'm learning more about Open Source. </p>
+  <p> Pursuing BTech in AIML alongside contributing to Open Source </p>
   <img src="https://github.com/ananyag309/ananyag309/blob/main/69b39f6dab8b07dc4b1e5039054b9f50.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
   <br>
   <p><strong>"🎓 College. ☕ Coffee. 💻 Code. 🔁 Repeat."<br><br> Vibing to: 🎧</strong></p>
@@ -76,11 +76,6 @@
               <br>
               <strong>Adventurer Badge</strong>
             </td>
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/ananyag309/ananyag309/blob/main/Champion%20Badge.png" alt="Champion Badge" width="80" />
-              <br>
-              <strong>Champion Badge</strong>
-            </td>
             <td style="padding: 10px;" width="100">
               <img src="https://github.com/ananyag309/ananyag309/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="80" />
               <br>
@@ -94,9 +89,9 @@
               <strong>Summit Seeker Badge</strong>
             </td>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github.com/AnleaMJ/readme/blob/main/Innovator%20Badge.png" alt="Innovator Badge" width="80" />
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Champion%20Badge.png" alt="Champion Badge" width="80" />
               <br>
-              <strong>Innovator Badge</strong>
+              <strong>Champion Badge</strong>
             </td>
             <td style="padding: 10px;" width="100">
               <img src="https://github.com/AnleaMJ/readme/blob/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" />
