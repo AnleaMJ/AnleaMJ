@@ -58,11 +58,11 @@
           <strong>GirlScript Summer of Code - extd</strong>
         </a>
         <br>
-        <span style="font-size: 14px; color: #555555;">🏅 Ranked Top 200</span>
+        <span style="font-size: 14px; color: #555555;">🏅 Ranked Top 317</span>
         <br>
         <span style="font-size: 12px; color: #777777;">
-	  Out of 3,700+ participants<br>
-          PRs Merged: 4<br>
+	  Out of 60k+ participants<br>
+          PRs Merged: 5<br>
           Total Badges: 7<br>
           Total Score: 1035<br>
         </span>
