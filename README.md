@@ -16,7 +16,7 @@
   <p> Pursuing BTech in AIML alongside contributing to Open Source </p>
   <img src="https://github.com/ananyag309/ananyag309/blob/main/69b39f6dab8b07dc4b1e5039054b9f50.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
   <br>
-  <p><strong>"🎓 College. ☕ Coffee. 💻 Code. 🔁 Repeat."<br><br> Vibing to: 🎧 Alec Benjamin</strong></p>
+  <p><strong>"🎓 College. ☕ Coffee. 💻 Code. 🔁 Repeat."<br><br> Vibing to: 🎧 Folklore - TS</strong></p>
 
 <br>
 <h3> Languages, Tools and Technologies 🚀 </h3>
